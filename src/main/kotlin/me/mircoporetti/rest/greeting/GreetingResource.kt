@@ -1,4 +1,4 @@
-package me.mircoporetti.rest
+package me.mircoporetti.rest.greeting
 
 import javax.ws.rs.GET
 import javax.ws.rs.Path

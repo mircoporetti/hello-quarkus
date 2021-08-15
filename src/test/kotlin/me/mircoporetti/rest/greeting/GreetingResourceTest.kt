@@ -1,4 +1,4 @@
-package me.mircoporetti.rest
+package me.mircoporetti.rest.greeting
 
 import io.quarkus.test.junit.QuarkusTest
 import io.restassured.RestAssured.given

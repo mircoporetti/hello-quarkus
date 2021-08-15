@@ -1,3 +1,3 @@
-package me.mircoporetti.rest
+package me.mircoporetti.rest.greeting
 
 data class Greeting(val message: String)
